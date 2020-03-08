@@ -110,3 +110,28 @@ font-size: 0;
 	color: #F15B31;
 	font-weight: 700;
 }
+
+button {
+    margin: 0 auto;
+    padding: 7px;
+    font: 500 16px "Raleway";
+    background: white;
+    border: solid 2.5px #00A6B3;  
+    font-weight: 700;
+}
+
+button:hover {
+    background: #00A6B3;
+    color: white;
+}
+
+table {
+    width: 25%;
+    margin: 0 auto;
+    font: 700 16px "Raleway";
+    border: solid 2.5px #00A6B3;
+}
+
+th, td {
+    padding: 7px;
+}
